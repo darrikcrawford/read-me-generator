@@ -19,17 +19,18 @@ const generateMarkdown = data => {
 	${data.description}
 
   ## Table of Contents
-	* [Installation](#installation)
-	* [Usage](#usage)
-	* [Contributors](#contributors)
-	* [Questions](#questions)
+  * [Installation Instructions](#installation-instructions)
+  * [Usage](#usage)
+  * [Contributing Parties](#contributing-parties)
+  * [Tests Instructions](#tests-instructions)
+  * [Questions](#questions)
 
   ## Installation Instructions
 	${data.installation}
 	
   ## Usage
 	${data.usage}
-  
+
   ## Contributing Parties
 	${data.contributors}
 	
